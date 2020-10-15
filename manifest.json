@@ -1,11 +1,10 @@
----
-permalink: manifest.json
----
 {
-  "short_name": "B. Sherwood",
   "name": "Brett Sherwood, developer",
+  "short_name": "B. Sherwood",
+  "url": "https://clockmakerbrett.tech",
+  "language": "en",
   "icons": [{ "src": "/assets/img/personal_site.png", "sizes": "192x192 512x512", "type": "image/png" }],
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff",
+  "background_color": "#ffffff"
 }

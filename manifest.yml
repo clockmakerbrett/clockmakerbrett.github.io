@@ -1,0 +1,11 @@
+---
+permalink: manifest.json
+---
+{
+  "short_name": "B. Sherwood",
+  "name": "Brett Sherwood, developer",
+  "icons": [{ "src": "/assets/img/personal_site.png", "sizes": "192x192 512x512", "type": "image/png" }],
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+}

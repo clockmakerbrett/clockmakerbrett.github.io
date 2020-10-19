@@ -847,9 +847,3 @@ pre {
   left: auto;
   bottom: 0%;
 }
-/* Not working, thumbnails look weird on mobile
-@media (max-width: 768px) {
-  .post-preview img {
-    display: none;
-  }
-} */

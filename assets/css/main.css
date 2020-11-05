@@ -848,12 +848,12 @@ pre {
   bottom: 0%;
 }
 .youtube-video {
-  width: 560;
-  height: 315;
+  width: 560px;
+  height: 315px;
 }
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   .youtube-video {
-    width: 336;
-    height: 189;
+    width: 336px;
+    height: 189px;
   }
 }

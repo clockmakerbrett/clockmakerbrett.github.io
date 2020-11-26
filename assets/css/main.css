@@ -828,7 +828,7 @@ pre {
   background-color: #404040;
   color: white;
 }
-.list-group-item:hover {
+.list-group-item a:hover {
   color: #C19A6B !important;
 }
 .repo-link {

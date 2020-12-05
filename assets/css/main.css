@@ -853,6 +853,7 @@ pre {
 .youtube-video {
   width: 672px;
   height: 378px;
+  margin-bottom: 0.5rem;
 }
 @media (max-width: 768px) {
   .youtube-video {

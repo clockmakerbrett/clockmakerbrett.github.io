@@ -832,8 +832,10 @@ pre {
   margin-top: 0.5rem;
 }
 .list-group-item {
-  color: #C19A6B !important;
   background-color: #404040;
+}
+.list-group-item a {
+  color: #C19A6B !important;
 }
 .repo-link {
   color: #C19A6B !important;

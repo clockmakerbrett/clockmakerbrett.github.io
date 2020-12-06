@@ -828,8 +828,12 @@ pre {
   background-color: #404040;
   color: white;
 }
-.list-group-item a:hover {
-  color: #C19A6B !important;
+.list-group {
+  margin-top: 0.5rem;
+}
+.list-group-item {
+  color: #C19A6B;
+  background-color: #404040;
 }
 .repo-link {
   color: #C19A6B !important;
